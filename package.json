@@ -1,7 +1,9 @@
 {
   "name": "typescript-unsoundness",
   "scripts": {
-    "start": "fusuma start"
+    "start": "fusuma start",
+    "build": "fusuma build",
+    "start:prod": "fusuma start-prod"
   },
   "devDependencies": {
     "fusuma": "^2.8.4"
